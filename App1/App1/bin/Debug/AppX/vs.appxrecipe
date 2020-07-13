@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-2078AJ7</Machine>
+    <WindowsUser>Topsey_Creet</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5AC8F7161635518ED8C2A8B95D18F78CD4321FE09F9F74EB0A6813274DC7F69D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>386f0490-a555-433c-a423-1d9c7f346720_1.0.0.0_neutral__6hd889tk73cbc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>386f0490-a555-433c-a423-1d9c7f346720_6hd889tk73cbc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>386f0490-a555-433c-a423-1d9c7f346720</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Topsey_Creet</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-31T07:04:59.436</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2019-08-31T07:04:57.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+      <Modified>2019-08-31T07:04:56.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2019-08-31T07:04:18.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2019-08-31T07:04:18.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\topsey_creet\documents\visual studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-08-31T07:04:58.215</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

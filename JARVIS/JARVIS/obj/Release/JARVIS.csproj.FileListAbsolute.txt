@@ -1,0 +1,15 @@
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\JARVIS.exe.config
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\JARVIS.exe.manifest
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\JARVIS.application
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\JARVIS.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\JARVIS.pdb
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\AIMLbot.dll
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\ExampleCustomAIMLTags.dll
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\bin\Release\ExampleCustomAIMLTags.pdb
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.Form1.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.Properties.Resources.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.csproj.GenerateResource.Cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.exe.manifest
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.application
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\JARVIS\JARVIS\obj\Release\JARVIS.pdb

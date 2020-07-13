@@ -1,0 +1,40 @@
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\Attendance_App1.exe.config
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.exe
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.pdb
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\Attendance_App1.exe
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\Attendance_App1.pdb
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.csprojResolveAssemblyReference.cache
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Add_Lecturer.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Admin_Dashboard.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Attendance_Login.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Properties.Resources.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.csproj.GenerateResource.Cache
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Student.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Attendance.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\AttendanceApp.db
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Admin_Attendance.resources
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Topsey_Creet\Documents\Visual Studio 2012\Projects\Attendance_App1\Attendance_App1\bin\Debug\NuGet.Core.dll
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\AttendanceApp.db
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\Attendance_App1.exe.config
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\Attendance_App1.exe
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\Attendance_App1.pdb
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\Microsoft.Web.XmlTransform.dll
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\NuGet.Core.dll
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\System.Data.SQLite.dll
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\System.Data.SQLite.xml
+F:\Projects\Attendance_App1\Attendance_App1\bin\Debug\System.Data.SQLite.dll.config
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.csprojAssemblyReference.cache
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Add_Lecturer.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Admin_Attendance.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Admin_Dashboard.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Attendance.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Attendance_Login.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Properties.Resources.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.Student.resources
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.csproj.GenerateResource.cache
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.csproj.CopyComplete
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.exe
+F:\Projects\Attendance_App1\Attendance_App1\obj\Debug\Attendance_App1.pdb

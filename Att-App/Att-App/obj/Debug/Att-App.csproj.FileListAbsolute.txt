@@ -1,0 +1,13 @@
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\bin\Debug\Att-App.exe.config
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\bin\Debug\Att-App.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\bin\Debug\Att-App.pdb
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att-App.csprojResolveAssemblyReference.cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\MainWindow.baml
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\MainWindow.g.cs
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\App.g.cs
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att-App_MarkupCompile.cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att-App.g.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att_App.Properties.Resources.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att-App.csproj.GenerateResource.Cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att-App.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Att-App\Att-App\obj\Debug\Att-App.pdb

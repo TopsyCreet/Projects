@@ -1,0 +1,6 @@
+c:\users\topsey_creet\documents\visual studio 2012\Projects\MaxCalc\MaxCalc\bin\Debug\MaxCalc.exe.config
+c:\users\topsey_creet\documents\visual studio 2012\Projects\MaxCalc\MaxCalc\bin\Debug\MaxCalc.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\MaxCalc\MaxCalc\bin\Debug\MaxCalc.pdb
+c:\users\topsey_creet\documents\visual studio 2012\Projects\MaxCalc\MaxCalc\obj\Debug\MaxCalc.csprojResolveAssemblyReference.cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\MaxCalc\MaxCalc\obj\Debug\MaxCalc.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\MaxCalc\MaxCalc\obj\Debug\MaxCalc.pdb

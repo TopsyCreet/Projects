@@ -1,0 +1,6 @@
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Tut\Tut\bin\Debug\Tut.exe.config
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Tut\Tut\bin\Debug\Tut.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Tut\Tut\bin\Debug\Tut.pdb
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Tut\Tut\obj\Debug\Tut.csprojResolveAssemblyReference.cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Tut\Tut\obj\Debug\Tut.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Tut\Tut\obj\Debug\Tut.pdb

@@ -1,0 +1,10 @@
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\bin\Debug\Attendance1.exe.config
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\bin\Debug\Attendance1.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\bin\Debug\Attendance1.pdb
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.csprojResolveAssemblyReference.cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.Admin_Dashboard.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.Attendance_Login.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.Properties.Resources.resources
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.csproj.GenerateResource.Cache
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.exe
+c:\users\topsey_creet\documents\visual studio 2012\Projects\Attendance1\Attendance1\obj\Debug\Attendance1.pdb

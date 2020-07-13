@@ -1,0 +1,9 @@
+﻿<Window x:Class="Att_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,-31,-31" RenderTransformOrigin="0.586,0.856">
+        <Label Content="GENOX" HorizontalAlignment="Left" Margin="414,303,0,0" VerticalAlignment="Top" Height="47" Width="124" FontSize="30"/>
+
+    </Grid>
+</Window>
